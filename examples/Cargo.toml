@@ -190,7 +190,7 @@ tracing-futures = "0.2"
 # Required for wellknown types
 prost-types = "0.8"
 # Hyper example
-hyper = { version = "0.14", features = ["full"] }
+hyper = {git = "https://github.com/dymchenkko/hyper.git" }, features = ["full"] }
 warp = "0.3"
 http = "0.2"
 http-body = "0.4.2"
