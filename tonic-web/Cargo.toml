@@ -20,7 +20,7 @@ http = "0.2"
 base64 = "0.13"
 futures-core = "0.3"
 bytes = "1.0"
-hyper = { git = "https://github.com/dymchenkko/hyper.git" }
+hyper = { git = "https://github.com/dymchenkko/hyper.git"}
 http-body = "0.4"
 tower-service = "0.3"
 tracing = "0.1"
