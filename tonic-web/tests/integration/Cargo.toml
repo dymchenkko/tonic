@@ -13,7 +13,7 @@ tokio = { version = "1", features = ["macros", "rt", "net"] }
 base64 = "0.13"
 bytes = "1.0"
 tokio-stream = { version = "0.1", features = ["net"] }
-hyper = { git = "https://github.com/dymchenkko/hyper.git"}
+hyper = "0.14"
 
 [build-dependencies]
 tonic-build = { path = "../../../tonic-build" }
