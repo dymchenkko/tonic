@@ -27,7 +27,7 @@ futures-core = "0.3"
 futures-util = "0.3"
 tower = { version = "0.4" }
 http-body = "0.4.2"
-hyper = {git = "https://github.com/dymchenkko/hyper.git" }
+hyper = "0.14.22"
 console = "0.14"
 structopt = "0.3"
 tracing = "0.1"
